@@ -15,11 +15,11 @@
 // Output: "olleh"
 
 // Notes:
-// Traverse the string from end to start and build the reversed string.
+// Traverse the string from end to start and build the reversed string by concatenation.
 
 // Complexity:
-// Time Complexity: O(n)  (each character visited once)
-// Space Complexity: O(n)  (for storing the reversed string)
+// Time Complexity: O(n^2)  (each concatenation creates a new string; cumulative cost is quadratic)
+// Space Complexity: O(n)   (for the final reversed string; plus transient allocations during concatenation)
 
 using System;
 
