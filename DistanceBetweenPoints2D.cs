@@ -39,6 +39,6 @@ public class DistanceBetweenPoints2D
         double y2 = Convert.ToDouble(Console.ReadLine());
 
         double distance = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
-        Console.WriteLine("Distance between points: " + distance);
+        Console.WriteLine("Distance: " + distance.ToString("F2"));
     }
 }
