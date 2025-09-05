@@ -1,4 +1,5 @@
 // Problem: Find the GCD (Greatest Common Divisor) of Two Numbers
+// Euclidean Algorithm
 
 // Question:
 // Write a program to find the GCD of two numbers using the Euclidean Algorithm.
