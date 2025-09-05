@@ -42,5 +42,7 @@ public class SalaryCompoundIncrement
         decimal newSalary = currentSalary * (decimal)Math.Pow((double)factor, years);
 
         Console.WriteLine($"Salary after {years} years: {Math.Round(newSalary, 2)}");
+        // Console.Write("new salary : " + newsalary.ToString("F2"));
+
     }
 }
