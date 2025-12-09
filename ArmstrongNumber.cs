@@ -1,4 +1,4 @@
-// Problem: Check if a Number is Armstrong
+// Problem: Check if a Number is Armstrong or not
 
 // Question:
 // Write a program to check whether a given number is an Armstrong number.
@@ -50,3 +50,5 @@ public class ArmstrongNumber
             Console.WriteLine("Not an Armstrong Number");
     }
 }
+
+
