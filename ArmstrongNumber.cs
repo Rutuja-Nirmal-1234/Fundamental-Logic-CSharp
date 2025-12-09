@@ -14,7 +14,7 @@
 
 // Example:
 // Input: 153
-// Output: Armstrong Number
+// Output: Armstrong Number.
 // Explanation: 1^3 + 5^3 + 3^3 = 153
 
 // Input: 123
